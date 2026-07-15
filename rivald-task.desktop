@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=RivaldTask Pro
+GenericName=Kanban Task Manager
+Comment=Premium Kanban task management application
+Exec=python3 %f/main.py
+Path=
+Icon=icon
+Terminal=false
+Categories=Office;ProjectManagement;Productivity;
+Keywords=kanban;task;todo;project;
+StartupNotify=true
+StartupWMClass=com.rivald.task
